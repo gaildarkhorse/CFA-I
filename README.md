@@ -1,5 +1,7 @@
 # CFA_I
+
 This is a project for preparing for CFA I. The goal of this project is to apply Python in carrying out financial analysis techniques. 
+
 
 ## Install
 ```
